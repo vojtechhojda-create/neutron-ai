@@ -1,0 +1,6 @@
+{
+    "mode": "api", when offline type offline 
+    "api_key": "TVUJ_API_KLIC_ZDE",
+    "api_url": "https://api.openai.com/v1/chat/completions",
+    "offline_model_path": "offline-models/muj_model.gguf"
+}
