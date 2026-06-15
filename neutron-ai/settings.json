@@ -1,6 +1,6 @@
 {
     "mode": "api", when offline type offline 
     "api_key": "TVUJ_API_KLIC_ZDE",
-    "api_url": "https://api.openai.com/v1/chat/completions",
+    "api_url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent",
     "offline_model_path": "offline-models/muj_model.gguf"
 }
