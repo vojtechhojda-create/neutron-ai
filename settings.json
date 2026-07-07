@@ -20,7 +20,7 @@
       ]
     },
     "gemini": {
-      "api_key": "AIzaSyBwC5GtEwyFXJU4UEzQ4aV28ew4I7WBnPQ",
+      "api_key": "",
       "models": [
         "gemini-3.1-flash-lite",
         "gemini-3.1-pro-preview",
