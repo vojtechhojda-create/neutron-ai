@@ -8,4 +8,4 @@ do settings.json dáš svoje api a potom to stačí zapnout
 
 stáhni zde soubory a dej je do složky
          nebo otevři terminál a napiš
-##### "git clone https://github.com/vojtechhojda-create/neutron-ai"
+#### "git clone https://github.com/vojtechhojda-create/neutron-ai"
