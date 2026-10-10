@@ -1,7 +1,7 @@
 
-#      Neuron-AI
+#      Neutron-AI
 
-## pro spuštění stačí vytvořit složku a do ní dát soubor ```neuron.py``` a napsat ```python neuron.py```
+## pro spuštění stačí vytvořit složku a do ní dát soubor ```neutron.py``` a napsat ```python neutron.py```
 
 
 > [!IMPORTANT]
